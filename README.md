@@ -1,7 +1,7 @@
 # Neural Network Experiments – README
-Name: Puneet Kumar Gupta
-Roll No.: 2301010171
-Course: B. Tech CSE
+**Name: Puneet Kumar Gupta**
+**Roll No.: 2301010171**
+**Course: B. Tech CSE**
 ## Overview
 
 This project contains basic Neural Network and Python library experiments.
